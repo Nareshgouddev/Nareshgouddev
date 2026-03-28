@@ -91,19 +91,24 @@ public class NareshGoud {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nareshgouddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshgouddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
-</div>
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nareshgouddev&theme=tokyonight&hide_border=true" />
-</div>
+</div>  -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Nareshgouddev&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</div> 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshgouddev&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-streak-stats-nu-snowy.vercel.app/?user=Nareshgouddev&theme=tokyonight&hide_border=true" />
+</div> 
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshgouddev&theme=tokyo-night&hide_border=true" />
+  
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Nareshgouddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nareshgouddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  
 </div>
 
 ---
@@ -126,7 +131,6 @@ public class NareshGoud {
 ### 💬 Open to entry-level Software Engineer roles | Java Full Stack | React | Node.js
 **If you're hiring or just want to talk tech — let's connect! 🚀**
 
-<img src="https://visitcount.itsvg.in/api?id=Nareshgouddev&icon=6&color=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
